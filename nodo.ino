@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <esp_now.h>
 
-const char* ssid = "iPhone de Ignacio";
-const char* password = "tajadagay";
+const char* ssid = "IoTB";
+const char* password = "inventaronelVAR";
 
 const int LED_PIN = 2;
 
